@@ -1,4 +1,4 @@
-name = "franklincli"
+name = "franklin"
 
 [install]
 completion = true
