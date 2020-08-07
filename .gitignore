@@ -1,0 +1,4 @@
+/deps/build.log
+/deps/lib
+/deps/precompile.jl
+Manifest.toml
