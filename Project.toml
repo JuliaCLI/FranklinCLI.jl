@@ -9,6 +9,8 @@ Franklin = "713c75ef-9fc9-4b05-94a9-213340da978e"
 
 [compat]
 julia = "1"
+Comonicon = "0.7"
+Franklin = "0.9"
 
 [extras]
 Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
