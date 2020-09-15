@@ -20,7 +20,7 @@ skeleton of a website that can be processed by Franklin.
 - `-v,--verbose`: add this flag to print verbose info.
 """
 @cast function new(path; template="basic", verbose::Bool=false)
-    Franklin.newsite(path; template=template, verbose=verbose, cd=false)
+    Franklin.newsite(path; template=template, verbose=verbose, changedir=false)
     return
 end
 
