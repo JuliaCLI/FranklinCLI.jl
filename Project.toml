@@ -9,9 +9,9 @@ Franklin = "713c75ef-9fc9-4b05-94a9-213340da978e"
 Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
 
 [compat]
-julia = "1"
-Comonicon = "0.7"
+Comonicon = "0.7, 0.8"
 Franklin = "0.9"
+julia = "1"
 
 [targets]
 test = ["Test"]
